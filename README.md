@@ -7,7 +7,7 @@ There are two ways to use Shiba:
 
 In order to use Shiba in private messages, first add Shiba as a friend by going to its [profile page](https://www.bustabit.com/user/Shiba) on bustabit and then clicking the "Add to friends" button. Then, select Shiba from the list of chat channels at right of chat. Now you can send your commands directly to Shiba.
 
-Alternatively, you can use the public "spam" chat channel. First, click the plus button at the bottom right of chat, then select the spam channel's flag. To send Shiba commands in the spam channel, prefix them with `!` or `#`.
+Alternatively, you can use the public "spam" chat channel. First, click the plus button at the bottom right of chat, then select the [spam channel's flag](https://i.imgur.com/rp6jfPX.png). To send Shiba commands in the spam channel, prefix them with `!` or `#`.
 
 ## Commands
 
