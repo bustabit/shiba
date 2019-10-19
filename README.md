@@ -27,7 +27,7 @@ Shares bits with players from chat chosen at random. Can be used in public chann
 
 #### rainon
 
-`rain <player> <amount>`
+`rainon <player> <amount>`
 
 Rains on a specific player. You can make it rain on yourself to withdraw from Shiba. Can be used in public channels only.
 
