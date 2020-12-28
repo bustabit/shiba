@@ -167,7 +167,7 @@ The modifier can be any of the following:
 
 `wagered [player] <duration>`
 
-Calculates how much a has wagered in the most recent duration. If the player is omitted, the total wagered by all players combined is calculated instead. The duration can be either a number of games or a duration using any of the following modifiers:
+Calculates how much a player has wagered in the most recent duration. If the player is omitted, the total wagered by all players combined is calculated instead. The duration can be either a number of games or a duration using any of the following modifiers:
 
 - year
 - month
