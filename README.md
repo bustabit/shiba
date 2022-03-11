@@ -29,7 +29,7 @@ Shares bits with players from chat chosen at random. Can be used in public chann
 
 `rainon <player> <amount>`
 
-Rains on a specific player. You can make it rain on yourself to withdraw from Shiba. Can be used in public channels only.
+Rains on a specific player. To withdraw from Shiba, use the `withdraw` command instead. Can be used in public channels only.
 
 **Example**: `!rainon Ryan 100` to rain 100 bits on the player Ryan
 
@@ -38,6 +38,12 @@ Rains on a specific player. You can make it rain on yourself to withdraw from Sh
 `stats [player]`
 
 Shows a player's rain stats. If no player is given, shows your own stats. The stats only account for random rain, i.e. rain given with the `rain` command but not the `rainon` command.
+
+#### withdraw
+
+`withdraw <amount>`
+
+Withdraw the given number of bits from your Shiba balance to your bustabit account.
 
 ### Miscellaneous
 
