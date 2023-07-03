@@ -15,14 +15,6 @@ Alternatively, you can use the public "spam" chat channel. First, click the plus
 
 Displays your balance with Shiba.
 
-#### rain
-
-`rain <number of players> <amount>`
-
-Shares bits with players from chat chosen at random. Can be used in public channels only.
-
-**Example**: `!rain 5 100` to rain 100 bits each on 5 players for a total of 500 bits.
-
 #### rainon
 
 `rainon <player> <amount>`
@@ -35,7 +27,7 @@ Rains on a specific player. To withdraw from Shiba, use the `withdraw` command i
 
 `stats [player]`
 
-Shows a player's rain stats. If no player is given, shows your own stats. The stats only account for random rain, i.e. rain given with the `rain` command but not the `rainon` command.
+Shows a player's rain stats. If no player is given, shows your own stats. The stats only account for random rain, i.e. rain given with the (currently disabled) `rain` command but not the `rainon` command.
 
 #### withdraw
 
