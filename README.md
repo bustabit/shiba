@@ -227,6 +227,24 @@ Calculates how much a player has wagered in the most recent duration. If the pla
 - minute
 - second
 
+#### colors
+
+`colors <duration>`
+
+Calculates the number and percentage of red and green rolls for the given duration. Duration can be either a number of games or a duration using any of the following modifiers:
+
+- year
+- month
+- week
+- day
+- hour
+- minute
+- second
+
+To calculate multiple results, pass a comma-separated list of games and/or durations.
+
+**Example**: `!colors 1k` to calculate the color distribution over the last 1,000 games.
+
 ### Moderators
 
 #### automute
