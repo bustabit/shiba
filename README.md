@@ -25,11 +25,11 @@ Shares bits with players from chat chosen at random. Can be used in public chann
 
 #### rainon
 
-`rainon <player> <amount>`
+`rainon <players> <amount>`
 
-Rains on a specific player. To withdraw from Shiba, use the `withdraw` command instead. Can be used in public channels only.
+Rains on one or more specific players. To withdraw from Shiba, use the `withdraw` command instead. Can be used in public channels only.
 
-**Example**: `!rainon Ryan 100` to rain 100 bits on the player Ryan.
+**Example**: `!rainon Ryan @555 100` to rain 100 bits each on the players Ryan and 555.
 
 #### stats
 
